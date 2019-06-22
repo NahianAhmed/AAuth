@@ -1,0 +1,6 @@
+setup database
+setup email
+copy past all file
+setup migration
+-- then ready to Go.
+also change email root link  
