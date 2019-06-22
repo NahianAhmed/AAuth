@@ -17,10 +17,10 @@ Route::get('/', function () {
 
 */
 /// My Auth 1.0
-Route::get('/login','MyAuth@ShowLogin');
-Route::post('/Authlink','MyAuth@SentAuthLink');
-Route::get('/Verify/{name}/{token}','MyAuth@VerifyLink');
-Route::post('/loginVerify','MyAuth@VerifyLogin');
+// Route::get('/login','MyAuth@ShowLogin');
+// Route::post('/Authlink','MyAuth@SentAuthLink');
+// Route::get('/Verify/{name}/{token}','MyAuth@VerifyLink');
+// Route::post('/loginVerify','MyAuth@VerifyLogin');
 
 
 /// My auth 2.0
